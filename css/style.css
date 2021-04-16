@@ -21,6 +21,10 @@ section{
   align-items: center;
 }
 
+#road{
+  z-index: 2;
+}
+
 section:before{
   content:'';
   position: absolute;
